@@ -1,0 +1,78 @@
+////////////////////////////////////////////////////////////////////////////////////
+Everything below this line was created by Tim Nelson and Matt Geyer in the summer of 
+2011. Lack of initiative slowed progress to a dead halt. From here on out, everything 
+above this line has been entered on or after September 20, 2011.
+/////////////////////////////////////////////////////////////////////////////////////
+version control - github
+Things needed to do:
+	Learn google maps API
+	Start developing website
+	Start developing apps
+		-andriod
+		-Iphone/wp7
+	
+June 15, 2011
+	Began looking at competition:
+		Garagesalefinder.com sucks giant penis, but does have a few listings.
+		Garagesaletracker.com is legit, already has an iphone app
+		Garagesalerover, seems to have sales, but you have to pay for nice features
+	Looking at garagesaletracker on iphone, reading negative feedback so we improve upon their idea.
+	Garagesaletracker only has 2/5 starts, lots of bad reviews
+	So far the competition blows, we can do better.
+Things to do:
+	Make new github account that we can all log into.
+	Purchase a domain name 
+	Figure out what we should do, set up LLC possibly?
+Things accomplished:
+	Decided on github as version control
+	bought jack in the box
+	Pre-assesment is that matt and tim would claim 40-45% of profit (if it makes any money) and j would get 10-20% initially
+	Github SSH public keys for Matt and Tim
+		
+		
+		
+		 
+Ideas:	
+	Thumbsup/thumbsdown for EACH garagesale, vetting system based off of users. Or even just feedback comment
+	
+
+June 15, 2011 (second meeting)
+This accomplished:
+	We established winhost as our hosting service
+	we created domain www.emergentmisbehavior.com, password: lolololol
+	Established a theme for emergentmisbehaviorLLC@gmail.com
+	Downloaded filezilla clients
+	done a little work on database design for garagesales
+		Fields for the sales:		Category Database:
+			ID			*look on ebay to get major categories*
+			Title			use binary representation for categories
+			Address			*ebay has 36 main categories*
+				Street
+				City
+				State
+				Zip Code
+			General Comment/Description (*blue house on corner*)
+			Directions?
+			*List of Comments*
+To do list:
+	Make sure everyone's development environments are compatible and functional
+		Github
+			SSH key, Git, etc...
+		FileZilla Client (use synacptic(sp) package manager)
+			implied
+		Visual Studio with .net framework (C#)
+		Basic tutorials on C# (learn SQL)
+			Individual level bitches
+		For APP development
+			Eclispe with android SDK
+			Eventually MAC n shit
+		Website
+			Set up databases (3 initially) (essential for basic "helloworld")
+			Make FTP accounts
+				
+			
+	Begin beta design/key functionality/optimization going
+		Drawing out what website looks like
+	Develop first beta of website
+	Eventually start app
+		Design, look
